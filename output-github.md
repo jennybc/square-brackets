@@ -1,0 +1,2 @@
+
+A reference to cell B2 in an expression in cell C3 can be written as is also R\[-1\]C\[-1\].
